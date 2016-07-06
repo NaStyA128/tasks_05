@@ -8,8 +8,8 @@ from functools import partial
 from multiprocessing import Pool
 
 
-from_dir_ = '/home/user/from/'
-to_dir_ = '/home/user/to/'
+from_dir_ = '/home/user/Projects/tasks_05/from/'
+to_dir_ = '/home/user/Projects/tasks_05/to/'
 
 
 def coping(to_dir, file_path):
